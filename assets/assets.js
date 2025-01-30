@@ -95,26 +95,26 @@ export const assets = {
 export const workData = [
     {
         title: 'This website',
-        description: 'Next Tailwind Material UI',
+        description: 'Next Tailwind Material UI .... ',
         bgImage: '/work-1.png',
         link:'https://github.com/heyaadityaprakash/Stocks-Website',
     },
     {
-        title: 'E-Commerce FS ',
-        description: 'React JWT Express ',
+        title: 'Saver Finance Tracker ',
+        description: 'React Express MongoDB .... ',
         bgImage: '/work-2.png',
-        link:'https://github.com/heyaadityaprakash/ecommerce-platform',
+        link:'https://github.com/heyaadityaprakash/Expense-tracker',
     },
     {
         title: 'Zerodha CLone',
-        description: 'React Material UI Chart.Js',
+        description: 'React Material UI Chart.Js .... ',
         bgImage: '/work-3.png',
         link:'https://github.com/heyaadityaprakash/Stocks-Website',
     },
     {
         title: 'UI/UX designing',
-        description: 'see on dribble',
-        bgImage: '/work-4.png',
+        description: 'see on dribble .... ',
+        bgImage: '/work-4.jpg',
         link:'https://dribbble.com/aadityaprakash',
     },
 ]

@@ -23,7 +23,7 @@ function Header() {
                     <motion.a initial={{ y:20, opacity:0 }}
                     whileInView={{ y:0,opacity:1 }} transition={{duration:0.6, delay:0.8}} href="#contact" className=' flex items-center bg-black rounded-full text-white px-4 py-2 gap-4 dark:bg-transparent border dark:border-gray-200'>Contact me <Image className='w-4' src={assets.right_arrow_white} alt=''/></motion.a>
                     <motion.a initial={{ y:20, opacity:0 }}
-                    whileInView={{ y:0,opacity:1 }} transition={{duration:0.6, delay:0.9}} href="/sample-resume.pdf" download className='flex items-center px-4 py-2 border rounded-full gap-4 border-gray-900 dark:text-black bg-white'>Resume<Image className='w-4' src={assets.download_icon} alt=''/></motion.a>
+                    whileInView={{ y:0,opacity:1 }} transition={{duration:0.6, delay:0.9}} href="/aaditya_prakash_resume.pdf" download className='flex items-center px-4 py-2 border rounded-full gap-4 border-gray-900 dark:text-black bg-white'>Resume<Image className='w-4' src={assets.download_icon} alt=''/></motion.a>
 
                 </div>
         </div>

@@ -19,7 +19,7 @@ function Services() {
       initial={{opacity:0}}
       whileInView={{opacity:1}}
       transition={{duration:0.6,delay:0.8}}
-      className="text-center mt05 mb-12 font-Ovo max-w-2xl mx-auto">
+      className="text-center mt-5 mb-12 font-Ovo max-w-2xl mx-auto">
         specializing in the MERN stack, I excel in crafting dynamic and responsive web applications. With a keen eye for UI/UX design using Figma, I create visually appealing and user-friendly interfaces.
         .Whether you need a scalable web solution or design consultation, I'm here to transform your ideas into reality.
       </motion.p>
